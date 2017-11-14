@@ -14,3 +14,19 @@
   padding-top: 70px;
   padding-bottom: 70px;
 }
+
+button{
+  text-decoration: none;
+  width: 49%;
+  background-color: black;
+  border: none;
+  transition-duration: 0.4s;
+}
+
+button:hover{
+  background-color: lightblue;
+}
+
+a{
+  color: white;
+}

@@ -16,11 +16,13 @@
 }
 
 button{
+  float: right;
   text-decoration: none;
-  width: 49%;
-  background-color: black;
+  width: 20%;
+  background-color: white;
   border: none;
   transition-duration: 0.4s;
+  padding: 20px;
 }
 
 button:hover{
@@ -30,3 +32,10 @@ button:hover{
 a{
   color: white;
 }
+
+p{
+  float: left;
+  background-color: white;
+  padding: 20px;
+  width: 40%
+} 

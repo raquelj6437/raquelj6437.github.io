@@ -16,13 +16,16 @@
 }
 
 button{
+  font-family: monospace;
   float: right;
   text-decoration: none;
   width: 20%;
   background-color: white;
   border: none;
   transition-duration: 0.4s;
-  padding: 20px;
+  /*padding: 20px;*/
+  font-size:30px;
+  color: black;
 }
 
 button:hover{
@@ -30,12 +33,13 @@ button:hover{
 }
 
 a{
-  color: white;
 }
 
-p{
+#name{
   float: left;
   background-color: white;
-  padding: 20px;
-  width: 40%
+  /*padding: 20px;*/
+  width: 40%;
+  font-family: monospace;
+  font-size: 30px
 } 

@@ -23,8 +23,8 @@ button{
   background-color: white;
   border: none;
   transition-duration: 0.4s;
-  /*padding: 20px;*/
-  font-size:30px;
+  padding: 20px;
+  font-size:20px;
   color: black;
 }
 
@@ -38,8 +38,8 @@ a{
 #name{
   float: left;
   background-color: white;
-  /*padding: 20px;*/
+  padding: 20px;
   width: 40%;
   font-family: monospace;
-  font-size: 30px
+  font-size: 20px
 } 

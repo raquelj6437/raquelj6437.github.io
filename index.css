@@ -1,14 +1,17 @@
 .bg-1 { 
   background-color: lightblue;
   color: black;
+  font-family: monospace;
 }
 .bg-2 { 
   background-color: lightgrey;
   color: black;
+  font-family: monospace;
 }
 .bg-3 { 
   background-color: lightblue;
   color: black;
+  font-family: monospace;
 }
 .container-fluid {
   padding-top: 70px;

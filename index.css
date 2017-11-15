@@ -36,7 +36,15 @@
   float: left;
   background-color: lightgrey;
   padding: 20px;
-  width: 40%;
+  width: 20%;
   font-family: monospace;
-  font-size: 20px
+  font-size: 20px;
+  letter-spacing: 4px;
+  color: black;
 } 
+
+#lastname{
+  background-color: lightgrey;
+  padding: 23px;
+  color: lightblue;
+}

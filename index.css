@@ -1,14 +1,14 @@
 .bg-1 { 
   background-color: lightblue;
-  color: #ffffff;
+  color: black;
 }
 .bg-2 { 
   background-color: lightgrey;
-  color: #ffffff;
+  color: black;
 }
 .bg-3 { 
   background-color: lightblue;
-  color: #555555;
+  color: black;
 }
 .container-fluid {
   padding-top: 70px;
@@ -47,4 +47,19 @@
   background-color: lightgrey;
   padding: 23px;
   color: lightblue;
+}
+
+#btt{
+  font-family: monospace;
+  text-decoration: none;
+  background-color: lightblue;
+  border: dotted;
+  transition-duration: 0.4s;
+  padding: 10px;
+  font-size:20px;
+  color: black;
+}
+
+#btt:hover{
+  background-color:lightgrey;
 }
